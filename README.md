@@ -1,3 +1,3 @@
 # myproject
-# this projec is created by Hazem Khaled
+# Hazem Khaled creates this project
 <h1>Hello</h1>
